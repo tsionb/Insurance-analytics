@@ -1,2 +1,10 @@
-# Insurance-analytics
-Insurance Analytics Challenge - Week 3 | 10 Academy KAIM Program  A comprehensive analysis of car insurance data for AlphaCare Insurance Solutions.  Includes EDA, hypothesis testing, predictive modeling, and premium optimization  for identifying low-risk customer segments.
+# Insurance Analytics Week 3 Project
+
+## Project Overview
+Analysis of car insurance data for AlphaCare Insurance Solutions (ACIS) to identify low-risk segments and optimize premiums.
+
+## Objectives
+1. Perform exploratory data analysis (EDA) on insurance claim data
+2. Conduct A/B hypothesis testing on risk factors
+3. Build predictive models for claims and premiums
+4. Implement data version control with DVC
