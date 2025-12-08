@@ -8,3 +8,14 @@ Analysis of car insurance data for AlphaCare Insurance Solutions (ACIS) to ident
 2. Conduct A/B hypothesis testing on risk factors
 3. Build predictive models for claims and premiums
 4. Implement data version control with DVC
+
+### Task 1: EDA
+- Analyzed insurance data
+- Created 3+ visualizations
+- Calculated loss ratios
+
+### Task 2: DVC
+- DVC installed and initialized
+- Local storage configured
+- Data files tracked: insurance_data_cleaned.csv
+- Tested DVC pull/push functionality
