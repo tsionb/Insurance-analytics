@@ -11,16 +11,16 @@ Analysis of car insurance data for AlphaCare Insurance Solutions (ACIS) to ident
 
 Task 1: EDA
 
-    Analyzed insurance data
-    Created 3 visualizations
-    Calculated loss ratios
+    -Analyzed insurance data
+    -Created 3 visualizations
+    -Calculated loss ratios
 
 Task 2: DVC
 
-    DVC installed and initialized
-    Local storage configured
-    Data files tracked: insurance_data_cleaned.csv
-    Tested DVC pull/push functionality
+    -DVC installed and initialized
+    -Local storage configured
+    -Data files tracked: insurance_data_cleaned.csv
+    -Tested DVC pull/push functionality
 
 Task 3: A/B Hypothesis Testing
 
@@ -28,19 +28,19 @@ Task 3: A/B Hypothesis Testing
 
   Findings:
 
-    Rejected H₀: Risk differs significantly across provinces
-    Rejected H₀: Risk differs between top postal codes
-    Rejected H₀: Margins differ between postal code groups
-    Gender: Claim frequency differs, but severity doesn't
-    Used chi-square, t-tests, Mann-Whitney U, and logistic regression
-    Business insights documented with actionable recommendations
+    -Rejected H₀: Risk differs significantly across provinces
+    -Rejected H₀: Risk differs between top postal codes
+    -Rejected H₀: Margins differ between postal code groups
+    -Gender: Claim frequency differs, but severity doesn't
+    -Used chi-square, t-tests, Mann-Whitney U, and logistic regression
+    -Business insights documented with actionable recommendations
 
 Task 4: Statistical Modeling
 
-    Classification Model: XGBoost for claim prediction (ROC AUC: 0.888)
-    Regression Model: XGBoost for claim severity prediction (R²: 0.125)
-    Premium Optimization: Built risk-based pricing formula
-    Model Interpretability: SHAP analysis for feature importance
-    Saved trained models and preprocessing pipelines
-    Compared suggested vs actual premiums
+    -Classification Model: XGBoost for claim prediction (ROC AUC: 0.888)
+    -Regression Model: XGBoost for claim severity prediction (R²: 0.125)
+    -Premium Optimization: Built risk-based pricing formula
+    -Model Interpretability: SHAP analysis for feature importance
+    -Saved trained models and preprocessing pipelines
+    -Compared suggested vs actual premiums
 
