@@ -1,0 +1,5 @@
+outs:
+- md5: 24c8dfd09a221d663f336b18c17db3fe
+  size: 321282
+  hash: md5
+  path: pipe_xgb_severity.joblib

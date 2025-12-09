@@ -1,0 +1,5 @@
+outs:
+- md5: e93410fb9162825a48fc95f7cda2b28d
+  size: 241167
+  hash: md5
+  path: pipe_xgb_claim_prob.joblib
